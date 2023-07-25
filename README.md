@@ -5,7 +5,7 @@
 
 🎓 &nbsp;I'm currently studuing at Innopolis University. \
 🌱 &nbsp;I'm on track with learning more about Mobile development and Software Architecture.\
-📄 &nbsp;Check my [now page](https://nai1ka.github.io) to get to know me a little better.
+📄 &nbsp;Check my [website](https://nai1ka.github.io) to get to know me a little better.
 
 ---
 
@@ -20,5 +20,5 @@
 <p align="center">
   <a href="https://nai1ka.github.io/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:nail.minnemullin@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+ <!-- <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a> -->
 </p>
