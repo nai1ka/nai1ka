@@ -1,4 +1,4 @@
-![Peek 2020-07-09 15-53](https://github.com/nai1ka/nai1ka/blob/main/src/typing.gif?raw=true) 
+![Typing]([https://github.com/nai1ka/nai1ka/blob/main/src/typing.gif?raw=true](https://github.com/nai1ka/nai1ka/blob/main/src/typing.gif?raw=true)) 
 <h3 align="center">Mobile Developer | Student </h3>
 
 ## I little bit about me
