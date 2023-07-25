@@ -11,6 +11,7 @@
 
 <p  align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nai1ka&theme=default" alt="github stats"></br>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nai1ka&theme=default&exclude=" >
  </p>
 
 
