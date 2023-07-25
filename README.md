@@ -10,9 +10,9 @@
 ---
 
 <p  align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nai1ka&theme=default" alt="github stats"></br>
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nai1ka&theme=default&exclude=" >
- </p>
+  <img src="https://raw.githubusercontent.com/nai1ka/nai1ka/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/nai1ka/nai1ka/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/nai1ka/nai1ka/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
 
 ## Links
