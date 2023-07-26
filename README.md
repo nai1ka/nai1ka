@@ -1,4 +1,5 @@
-![Typing](https://github.com/nai1ka/nai1ka/blob/main/src/typing.gif?raw=true](https://github.com/nai1ka/nai1ka/blob/main/src/typing.gif?raw=true)) 
+![2023-07-25 14-25-34_1 (1)](https://github.com/nai1ka/nai1ka/assets/40440192/83a3c6bb-b1f2-482b-ab10-4bd55a23ab16)
+
 <h3 align="center">Mobile Developer | Student </h3>
 
 ## I little bit about me
