@@ -1,8 +1,4 @@
-![2023-07-25_14-25-34_1_AdobeExpress (2)](https://github.com/nai1ka/nai1ka/assets/40440192/4f2f1a7b-7d4e-447e-8f27-82223805136b)
-
-
-
-
+![2023-07-25 14-25-34_1 (9)](https://github.com/nai1ka/nai1ka/assets/40440192/ddc7a8b5-32f3-4ca3-891a-daca9f0b40d0)
 
 <h3 align="center">Mobile Developer | Student </h3>
 
