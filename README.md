@@ -1,5 +1,4 @@
-![2023-07-25 14-25-34_1 (1)](https://github.com/nai1ka/nai1ka/assets/40440192/83a3c6bb-b1f2-482b-ab10-4bd55a23ab16)
-![2023-07-25-14-25-34_1 (1)](https://github.com/nai1ka/nai1ka/assets/40440192/6a82f4f7-95d4-4a7e-8e01-45cfac41f30f)
+![2023-07-25_14-25-34_1_AdobeExpress (2)](https://github.com/nai1ka/nai1ka/assets/40440192/4f2f1a7b-7d4e-447e-8f27-82223805136b)
 
 
 
