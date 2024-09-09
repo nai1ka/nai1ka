@@ -2,14 +2,6 @@
 
 <h3 align="center">Mobile Developer | Student </h3>
 
-## I little bit about me
-
-🎓 &nbsp;I'm currently studuing at Innopolis University. \
-🌱 &nbsp;I'm on track with learning more about Mobile development and Software Architecture.\
-📄 &nbsp;Check my [website](https://nai1ka.github.io) to get to know me a little better.
-
----
-
 <p  align="center">
   <img src="https://raw.githubusercontent.com/nai1ka/nai1ka/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
   <img src="https://raw.githubusercontent.com/nai1ka/nai1ka/master/profile-summary-card-output/default/1-repos-per-language.svg">
